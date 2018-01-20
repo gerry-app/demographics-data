@@ -15,10 +15,10 @@ def go_through_data(c,info,counties):
             counties[row['STNAME']][n] = ''
             info[row['STNAME']][n] = []
         new_person = {}
-        new_person['sex'] = row['SEX']
-        new_person['his'] = row['ORIGIN']
-        new_person['age'] = row['AGEGRP']
-        new_person['race'] = row['IMPRACE']
+        new_person['sex'] = int(row['SEX'])
+        new_person['his'] = int(row['ORIGIN'])
+        new_person['age'] = int(row['AGEGRP'])
+        new_person['race'] = int(row['IMPRACE'])
         #new_person['res_pop'] = row['RESPOP']
         info[row['STNAME']][n].append(new_person)
 

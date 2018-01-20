@@ -18,7 +18,7 @@ for state in counties_dict:
     
         for section in sections:
             counties = section.split('\n')
-            district = counties[0]
+            district = int(counties[0])
             counties = counties[2:]
             for c in counties:
             
