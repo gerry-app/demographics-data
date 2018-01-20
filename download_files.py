@@ -22,7 +22,7 @@ for x in xrange(55):
         split_page = html.split(' ') 
         state = split_page[0]
         state = state[0] + state[1:].lower()
-        if state == 'New' or state == 'West' or state == 'North' or state == 'South':
+        if state == 'New' or state == 'West' or state == 'North' or state == 'South' or state == 'Rhode':
             state += '_%s' % (split_page[1][0] + split_page[1][1:].lower())
 
         
