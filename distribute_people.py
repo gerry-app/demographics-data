@@ -7,7 +7,7 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     if counts[val] < spaces[val]:
         total = people['R'] + people['D']
         num_to_choose = total/spaces[val]
-        d_choose = random.randrange(total%spaces[val],num_to_choose+1)
+        d_choose = random.randrange(0,num_to_choose+1)
         r_choose = num_to_choose-d_choose
     else:
         d_choose = people['D']
@@ -55,9 +55,9 @@ def get_state_people(state,state_array):
             spaces[d] += row.count(d)
     
     for y in xrange(len(state_array)):
-        for x in xrange(len(state_array[x])):
+        for x in xrange(len(state_array[y])):
             val = state_array[y][x]
-            if not val:
+            if val != 0:
                 fill_in_cell(districts,counts,val,spaces,state_info,y,x)
 
     return state_info
