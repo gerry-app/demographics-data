@@ -60,7 +60,7 @@ def get_state_people(state,state_array):
     rep = 0
     
     with open('party_counts.json') as dt:
-        districts = json.load(dt)[full[state]]
+        districts = json.load(dt)[state]
     
     spaces = {state+'-'+str(d):0 for d in districts}
     counts = {state+'-'+str(d):1 for d in districts}
