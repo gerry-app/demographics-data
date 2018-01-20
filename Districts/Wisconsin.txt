@@ -1,0 +1,112 @@
+WISCONSIN COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Kenosha
+Milwaukee (pt.)
+Racine
+Rock (pt.)
+Walworth (pt.)
+Waukesha (pt.)
+
+Congressional District 2
+
+Dane
+Green
+Iowa
+Lafayette
+Richland (pt.)
+Rock (pt.)
+Sauk
+
+Congressional District 3
+
+Adams
+Buffalo
+Chippewa (pt.)
+Crawford
+Dunn
+Eau Claire
+Grant
+Jackson (pt.)
+Juneau (pt.)
+La Crosse
+Monroe (pt.)
+Pepin
+Pierce
+Portage
+Richland (pt.)
+Trempealeau
+Vernon
+Wood (pt.)
+
+Congressional District 4
+
+Milwaukee (pt.)
+Waukesha (pt.)
+
+Congressional District 5
+
+Dodge (pt.)
+Jefferson
+Milwaukee (pt.)
+Walworth (pt.)
+Washington
+Waukesha (pt.)
+
+Congressional District 6
+
+Columbia
+Dodge (pt.)
+Fond du Lac
+Green Lake
+Manitowoc
+Marquette
+Milwaukee (pt.)
+Ozaukee
+Sheboygan
+Waushara
+Winnebago (pt.)
+
+Congressional District 7
+
+Ashland
+Barron
+Bayfield
+Burnett
+Chippewa (pt.)
+Clark
+Douglas
+Florence
+Forest
+Iron
+Jackson (pt.)
+Juneau (pt.)
+Langlade
+Lincoln
+Marathon
+Monroe (pt.)
+Oneida
+Polk
+Price
+Rusk
+Sawyer
+St. Croix
+Taylor
+Vilas
+Washburn
+Wood (pt.)
+
+Congressional District 8
+
+Brown
+Calumet
+Door
+Kewaunee
+Marinette
+Menominee
+Oconto
+Outagamie
+Shawano
+Waupaca
+Winnebago (pt.)

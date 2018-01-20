@@ -1,0 +1,63 @@
+MASSACHUSETTS COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Berkshire
+Franklin (pt.)
+Hampden (pt.)
+Hampshire (pt.)
+Worcester (pt.)
+
+Congressional District 2
+
+Franklin (pt.)
+Hampden (pt.)
+Hampshire (pt.)
+Norfolk (pt.)
+Worcester (pt.)
+
+Congressional District 3
+
+Essex (pt.)
+Middlesex (pt.)
+Worcester (pt.)
+
+Congressional District 4
+
+Bristol (pt.)
+Middlesex (pt.)
+Norfolk (pt.)
+Plymouth (pt.)
+Worcester (pt.)
+
+Congressional District 5
+
+Middlesex (pt.)
+Suffolk (pt.)
+Worcester (pt.)
+
+Congressional District 6
+
+Essex (pt.)
+Middlesex (pt.)
+
+Congressional District 7
+
+Middlesex (pt.)
+Norfolk (pt.)
+Suffolk (pt.)
+
+Congressional District 8
+
+Bristol (pt.)
+Norfolk (pt.)
+Plymouth (pt.)
+Suffolk (pt.)
+
+Congressional District 9
+
+Barnstable
+Bristol (pt.)
+Dukes
+Nantucket
+Plymouth (pt.)

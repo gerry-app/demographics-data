@@ -1,0 +1,121 @@
+KANSAS COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Barton
+Chase
+Cheyenne
+Clark
+Clay
+Cloud
+Decatur
+Dickinson
+Ellis
+Ellsworth
+Finney
+Ford
+Geary
+Gove
+Graham
+Grant
+Gray
+Greeley
+Hamilton
+Haskell
+Hodgeman
+Jewell
+Kearny
+Lane
+Lincoln
+Logan
+Lyon
+Marion
+Marshall (pt.)
+McPherson
+Meade
+Mitchell
+Morris
+Morton
+Ness
+Norton
+Osborne
+Ottawa
+Pawnee (pt.)
+Phillips
+Pottawatomie
+Rawlins
+Reno
+Republic
+Rice
+Riley
+Rooks
+Rush
+Russell
+Saline
+Scott
+Seward
+Sheridan
+Sherman
+Smith
+Stanton
+Stevens
+Thomas
+Trego
+Wabaunsee
+Wallace
+Washington
+Wichita
+
+Congressional District 2
+
+Allen
+Anderson
+Atchison
+Bourbon
+Brown
+Cherokee
+Coffey
+Crawford
+Doniphan
+Douglas
+Franklin
+Jackson
+Jefferson
+Labette
+Leavenworth
+Linn
+Marshall (pt.)
+Miami (pt.)
+Montgomery
+Nemaha
+Neosho
+Osage
+Shawnee
+Wilson
+Woodson
+
+Congressional District 3
+
+Johnson
+Miami (pt.)
+Wyandotte
+
+Congressional District 4
+
+Barber
+Butler
+Chautauqua
+Comanche
+Cowley
+Edwards
+Elk
+Greenwood
+Harper
+Harvey
+Kingman
+Kiowa
+Pawnee (pt.)
+Pratt
+Sedgwick
+Stafford
+Sumner

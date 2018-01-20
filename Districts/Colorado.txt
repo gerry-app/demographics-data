@@ -1,0 +1,97 @@
+COLORADO COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Arapahoe (pt.)
+Denver
+Jefferson (pt.)
+
+Congressional District 2
+
+Boulder (pt.)
+Broomfield
+Clear Creek
+Eagle (pt.)
+Gilpin
+Grand
+Jefferson (pt.)
+Larimer
+Park (pt.)
+Summit
+Weld (pt.)
+
+Congressional District 3
+
+Alamosa
+Archuleta
+Conejos
+Costilla
+Custer
+Delta
+Dolores
+Eagle (pt.)
+Garfield
+Gunnison
+Hinsdale
+Huerfano
+Jackson
+La Plata
+Lake
+Mesa
+Mineral
+Moffat
+Montezuma
+Montrose
+Ouray
+Pitkin
+Pueblo
+Rio Blanco
+Rio Grande
+Routt
+Saguache
+San Juan
+San Miguel
+
+Congressional District 4
+
+Adams (pt.)
+Arapahoe (pt.)
+Baca
+Bent
+Boulder (pt.)
+Cheyenne
+Crowley
+Douglas (pt.)
+Elbert
+Kiowa
+Kit Carson
+Las Animas
+Lincoln
+Logan
+Morgan
+Otero
+Phillips
+Prowers
+Sedgwick
+Washington
+Weld (pt.)
+Yuma
+
+Congressional District 5
+
+Chaffee
+El Paso
+Fremont
+Park (pt.)
+Teller
+
+Congressional District 6
+
+Adams (pt.)
+Arapahoe (pt.)
+Douglas (pt.)
+
+Congressional District 7
+
+Adams (pt.)
+Jefferson (pt.)

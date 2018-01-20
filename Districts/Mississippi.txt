@@ -1,0 +1,99 @@
+MISSISSIPPI COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Alcorn
+Benton
+Calhoun
+Chickasaw
+Choctaw
+Clay
+DeSoto
+Itawamba
+Lafayette
+Lee
+Lowndes
+Marshall
+Monroe
+Oktibbeha (pt.)
+Pontotoc
+Prentiss
+Tate
+Tippah
+Tishomingo
+Union
+Webster
+Winston
+
+Congressional District 2
+
+Attala
+Bolivar
+Carroll
+Claiborne
+Coahoma
+Copiah
+Grenada
+Hinds (pt.)
+Holmes
+Humphreys
+Issaquena
+Jefferson
+Leake
+Leflore
+Madison (pt.)
+Montgomery
+Panola
+Quitman
+Sharkey
+Sunflower
+Tallahatchie
+Tunica
+Warren
+Washington
+Yalobusha
+Yazoo
+
+Congressional District 3
+
+Adams
+Amite
+Clarke (pt.)
+Covington
+Franklin
+Hinds (pt.)
+Jasper
+Jefferson Davis
+Kemper
+Lauderdale
+Lawrence
+Lincoln
+Madison (pt.)
+Neshoba
+Newton
+Noxubee
+Oktibbeha (pt.)
+Pike
+Rankin
+Scott
+Simpson
+Smith
+Walthall
+Wilkinson
+
+Congressional District 4
+
+Clarke (pt.)
+Forrest
+George
+Greene
+Hancock
+Harrison
+Jackson
+Jones
+Lamar
+Marion
+Pearl River
+Perry
+Stone
+Wayne

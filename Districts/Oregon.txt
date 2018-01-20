@@ -1,0 +1,57 @@
+OREGON COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Clatsop
+Columbia
+Multnomah (pt.)
+Washington
+Yamhill
+
+Congressional District 2
+
+Baker
+Crook
+Deschutes
+Gilliam
+Grant
+Harney
+Hood River
+Jackson
+Jefferson
+Josephine (pt.)
+Klamath
+Lake
+Malheur
+Morrow
+Sherman
+Umatilla
+Union
+Wallowa
+Wasco
+Wheeler
+
+Congressional District 3
+
+Clackamas (pt.)
+Multnomah (pt.)
+
+Congressional District 4
+
+Benton (pt.)
+Coos
+Curry
+Douglas
+Josephine (pt.)
+Lane
+Linn
+
+Congressional District 5
+
+Benton (pt.)
+Clackamas (pt.)
+Lincoln
+Marion
+Multnomah (pt.)
+Polk
+Tillamook

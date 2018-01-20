@@ -1,0 +1,52 @@
+IDAHO COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Ada (pt.)
+Adams
+Benewah
+Boise
+Bonner
+Boundary
+Canyon
+Clearwater
+Gem
+Idaho
+Kootenai
+Latah
+Lewis
+Nez Perce
+Owyhee
+Payette
+Shoshone
+Valley
+Washington
+
+Congressional District 2
+
+Ada (pt.)
+Bannock
+Bear Lake
+Bingham
+Blaine
+Bonneville
+Butte
+Camas
+Caribou
+Cassia
+Clark
+Custer
+Elmore
+Franklin
+Fremont
+Gooding
+Jefferson
+Jerome
+Lemhi
+Lincoln
+Madison
+Minidoka
+Oneida
+Power
+Teton
+Twin Falls

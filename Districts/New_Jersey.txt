@@ -1,0 +1,83 @@
+NEW JERSEY COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Burlington (pt.)
+Camden (pt.)
+Gloucester (pt.)
+
+Congressional District 2
+
+Atlantic
+Burlington (pt.)
+Camden (pt.)
+Cape May
+Cumberland
+Gloucester (pt.)
+Ocean (pt.)
+Salem
+
+Congressional District 3
+
+Burlington (pt.)
+Ocean (pt.)
+
+Congressional District 4
+
+Mercer (pt.)
+Monmouth (pt.)
+Ocean (pt.)
+
+Congressional District 5
+
+Bergen (pt.)
+Passaic (pt.)
+Sussex (pt.)
+Warren (pt.)
+
+Congressional District 6
+
+Middlesex (pt.)
+Monmouth (pt.)
+
+Congressional District 7
+
+Essex (pt.)
+Hunterdon
+Morris (pt.)
+Somerset (pt.)
+Union (pt.)
+Warren (pt.)
+
+Congressional District 8
+
+Bergen (pt.)
+Essex (pt.)
+Hudson (pt.)
+Union (pt.)
+
+Congressional District 9
+
+Bergen (pt.)
+Hudson (pt.)
+Passaic (pt.)
+
+Congressional District 10
+
+Essex (pt.)
+Hudson (pt.)
+Union (pt.)
+
+Congressional District 11
+
+Essex (pt.)
+Morris (pt.)
+Passaic (pt.)
+Sussex (pt.)
+
+Congressional District 12
+
+Mercer (pt.)
+Middlesex (pt.)
+Somerset (pt.)
+Union (pt.)

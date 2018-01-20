@@ -1,0 +1,184 @@
+KENTUCKY COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Adair
+Allen
+Ballard
+Caldwell
+Calloway
+Carlisle
+Casey
+Christian
+Clinton
+Crittenden
+Cumberland
+Fulton
+Graves
+Henderson
+Hickman
+Hopkins
+Livingston
+Logan
+Lyon
+Marion
+Marshall
+McCracken
+McLean
+Metcalfe
+Monroe
+Muhlenberg
+Ohio
+Russell
+Simpson
+Taylor
+Todd
+Trigg
+Union
+Washington (pt.)
+Webster
+
+Congressional District 2
+
+Barren
+Boyle
+Breckinridge
+Bullitt
+Butler
+Daviess
+Edmonson
+Garrard
+Grayson
+Green
+Hancock
+Hardin
+Hart
+Jessamine (pt.)
+Larue
+Meade
+Mercer
+Nelson
+Spencer (pt.)
+Warren
+Washington (pt.)
+
+Congressional District 3
+
+Jefferson (pt.)
+
+Congressional District 4
+
+Boone
+Boyd (pt.)
+Bracken
+Campbell
+Carroll
+Gallatin
+Grant
+Greenup
+Harrison (pt.)
+Henry
+Jefferson (pt.)
+Kenton
+Lewis
+Mason
+Oldham
+Owen
+Pendleton
+Shelby
+Spencer (pt.)
+Trimble
+
+Congressional District 5
+
+Bell
+Boyd (pt.)
+Breathitt
+Carter
+Clay
+Elliott
+Floyd
+Harlan
+Jackson
+Johnson
+Knott
+Knox
+Laurel
+Lawrence
+Lee
+Leslie
+Letcher
+Lincoln
+Magoffin
+Martin
+McCreary
+Morgan
+Owsley
+Perry
+Pike
+Pulaski
+Rockcastle
+Rowan
+Wayne
+Whitley
+
+Congressional District 6
+
+Anderson
+Bath
+Bourbon
+Clark
+Estill
+Fayette
+Fleming
+Franklin
+Harrison (pt.)
+Jessamine (pt.)
+Madison
+Menifee
+Montgomery
+Nicholas
+Powell
+Robertson
+Scott
+Wolfe
+Woodford
+
+
+---------------------------------------------------------------------------------------------------
+
+User Note:
+Where the boundary of a congressional district for the 113th Congress splits a Census 2010 block,
+the Census Bureau's maps and TIGER/Line files depict the correct location of the boundary.
+For data tabulation purposes, split blocks are allocated in their entirety to the
+113th Congressional District specified to the Census Bureau by the state. The following
+list provides all the 113th Congressional Districts that split census blocks and shows
+the congressional district where the block is allocated for data tabulation.
+
+                                   CD's
+County      County  Tract   Block  in      CD Data
+Name        Code    Code    Code   Block   Tabulation
+
+Harrison    097     950100  1068   4,6     4
+                            1070   4,6     4
+                    950400  2024   4,6     6
+                            2032   4,6     6
+Jefferson   111     010316  1013   3,4     4
+                            1021   3,4     4
+                            1022   3,4     4
+                            2011   3,4     4
+                            2018   3,4     4
+                    011603  3002   3,4     3
+                            3037   3,4     3
+Jessamine   113     060400  1023   2,6     6
+                            4007   2,6     2
+                            4015   2,6     2
+                            4026   2,6     2
+                    060600  2000   2,6     6
+Spencer     215     080102  1010   2,4     4
+                            2025   2,4     4
+Washington  229     930300  2017   1,2     2
+                            2027   1,2     1
+                            2034   1,2     2
+                            2036   1,2     1
+                            2069   1,2     2

@@ -1,0 +1,190 @@
+NORTH CAROLINA COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Beaufort (pt.)
+Bertie
+Chowan (pt.)
+Craven (pt.)
+Durham (pt.)
+Edgecombe (pt.)
+Franklin (pt.)
+Gates (pt.)
+Granville (pt.)
+Greene (pt.)
+Halifax
+Hertford
+Lenoir (pt.)
+Martin (pt.)
+Nash (pt.)
+Northampton
+Pasquotank (pt.)
+Perquimans (pt.)
+Pitt (pt.)
+Vance (pt.)
+Warren
+Washington (pt.)
+Wayne (pt.)
+Wilson (pt.)
+
+Congressional District 2
+
+Alamance (pt.)
+Chatham (pt.)
+Cumberland (pt.)
+Harnett (pt.)
+Hoke (pt.)
+Lee
+Moore
+Randolph (pt.)
+Wake (pt.)
+
+Congressional District 3
+
+Beaufort (pt.)
+Camden
+Carteret
+Chowan (pt.)
+Craven (pt.)
+Currituck
+Dare
+Gates (pt.)
+Greene (pt.)
+Hyde
+Jones
+Lenoir (pt.)
+Martin (pt.)
+New Hanover (pt.)
+Onslow
+Pamlico
+Pasquotank (pt.)
+Pender (pt.)
+Perquimans (pt.)
+Pitt (pt.)
+Tyrrell
+Washington (pt.)
+
+Congressional District 4
+
+Alamance (pt.)
+Chatham (pt.)
+Cumberland (pt.)
+Durham (pt.)
+Harnett (pt.)
+Orange (pt.)
+Wake (pt.)
+
+Congressional District 5
+
+Alexander
+Alleghany
+Ashe
+Catawba (pt.)
+Davidson (pt.)
+Davie
+Forsyth (pt.)
+Iredell (pt.)
+Rowan (pt.)
+Watauga
+Wilkes
+Yadkin
+
+Congressional District 6
+
+Alamance (pt.)
+Caswell
+Durham (pt.)
+Granville (pt.)
+Guilford (pt.)
+Orange (pt.)
+Person
+Rockingham
+Stokes
+Surry
+
+Congressional District 7
+
+Bladen
+Brunswick
+Columbus
+Cumberland (pt.)
+Duplin
+Hoke (pt.)
+Johnston
+Lenoir (pt.)
+New Hanover (pt.)
+Pender (pt.)
+Robeson (pt.)
+Sampson
+
+Congressional District 8
+
+Anson
+Cabarrus (pt.)
+Davidson (pt.)
+Mecklenburg (pt.)
+Montgomery
+Randolph (pt.)
+Richmond
+Robeson (pt.)
+Rowan (pt.)
+Scotland
+Stanly
+Union (pt.)
+
+Congressional District 9
+
+Iredell (pt.)
+Mecklenburg (pt.)
+Union (pt.)
+
+Congressional District 10
+
+Buncombe (pt.)
+Catawba (pt.)
+Cleveland
+Gaston
+Lincoln
+Polk
+Rutherford
+
+Congressional District 11
+
+Avery
+Buncombe (pt.)
+Burke
+Caldwell
+Cherokee
+Clay
+Graham
+Haywood
+Henderson
+Jackson
+Macon
+Madison
+McDowell
+Mitchell
+Swain
+Transylvania
+Yancey
+
+Congressional District 12
+
+Cabarrus (pt.)
+Davidson (pt.)
+Forsyth (pt.)
+Guilford (pt.)
+Mecklenburg (pt.)
+Rowan (pt.)
+
+Congressional District 13
+
+Durham (pt.)
+Edgecombe (pt.)
+Franklin (pt.)
+Granville (pt.)
+Nash (pt.)
+Vance (pt.)
+Wake (pt.)
+Wayne (pt.)
+Wilson (pt.)

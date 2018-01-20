@@ -1,0 +1,418 @@
+TEXAS COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Angelina
+Gregg
+Harrison
+Nacogdoches
+Panola
+Rusk
+Sabine
+San Augustine
+Shelby
+Smith
+Upshur (pt.)
+Wood (pt.)
+
+Congressional District 2
+
+Harris (pt.)
+
+Congressional District 3
+
+Collin (pt.)
+
+Congressional District 4
+
+Bowie
+Camp
+Cass
+Collin (pt.)
+Delta
+Fannin
+Franklin
+Grayson
+Hopkins
+Hunt
+Lamar
+Marion
+Morris
+Rains
+Red River
+Rockwall
+Titus
+Upshur (pt.)
+
+Congressional District 5
+
+Anderson
+Cherokee
+Dallas (pt.)
+Henderson
+Kaufman
+Van Zandt
+Wood (pt.)
+
+Congressional District 6
+
+Ellis
+Navarro
+Tarrant (pt.)
+
+Congressional District 7
+
+Harris (pt.)
+
+Congressional District 8
+
+Grimes
+Harris (pt.)
+Houston
+Leon (pt.)
+Madison
+Montgomery
+San Jacinto
+Trinity
+Walker
+
+Congressional District 9
+
+Fort Bend (pt.)
+Harris (pt.)
+
+Congressional District 10
+
+Austin
+Bastrop (pt.)
+Colorado
+Fayette
+Harris (pt.)
+Lee (pt.)
+Travis (pt.)
+Waller
+Washington
+
+Congressional District 11
+
+Andrews
+Brown
+Callahan
+Coke
+Coleman
+Comanche
+Concho
+Dawson
+Eastland
+Ector
+Erath (pt.)
+Glasscock
+Hood
+Irion
+Kimble
+Llano
+Martin
+Mason
+McCulloch
+Menard
+Midland
+Mills
+Mitchell
+Palo Pinto
+Runnels
+San Saba
+Stephens (pt.)
+Sterling
+Tom Green
+
+Congressional District 12
+
+Parker
+Tarrant (pt.)
+Wise (pt.)
+
+Congressional District 13
+
+Archer
+Armstrong
+Baylor
+Briscoe
+Carson
+Childress
+Clay
+Collingsworth
+Cooke
+Cottle
+Dallam
+Deaf Smith
+Dickens
+Donley
+Floyd (pt.)
+Foard
+Gray
+Hall
+Hansford
+Hardeman
+Hartley
+Hemphill
+Hutchinson
+Jack
+King
+Knox
+Lipscomb
+Montague
+Moore
+Motley
+Ochiltree
+Oldham
+Potter
+Randall
+Roberts
+Sherman
+Swisher
+Wheeler
+Wichita
+Wilbarger
+Wise (pt.)
+
+Congressional District 14
+
+Brazoria (pt.)
+Chambers (pt.)
+Galveston
+Jefferson
+
+Congressional District 15
+
+Brooks
+Duval
+Guadalupe (pt.)
+Hidalgo (pt.)
+Jim Hogg
+Karnes
+Live Oak
+Wilson (pt.)
+
+Congressional District 16
+
+El Paso (pt.)
+
+Congressional District 17
+
+Bastrop (pt.)
+Brazos
+Burleson
+Falls
+Freestone
+Lee (pt.)
+Leon (pt.)
+Limestone
+McLennan
+Milam
+Robertson
+Travis (pt.)
+
+Congressional District 18
+
+Harris (pt.)
+
+Congressional District 19
+
+Bailey
+Borden
+Castro
+Cochran
+Crosby
+Fisher
+Floyd (pt.)
+Gaines
+Garza
+Hale
+Haskell
+Hockley
+Howard
+Jones
+Kent
+Lamb
+Lubbock
+Lynn
+Nolan
+Parmer
+Scurry
+Shackelford
+Stephens (pt.)
+Stonewall
+Taylor
+Terry
+Throckmorton
+Yoakum
+Young
+
+Congressional District 20
+
+Bexar (pt.)
+
+Congressional District 21
+
+Bandera
+Bexar (pt.)
+Blanco
+Comal (pt.)
+Gillespie
+Hays (pt.)
+Kendall
+Kerr
+Real
+Travis (pt.)
+
+Congressional District 22
+
+Brazoria (pt.)
+Fort Bend (pt.)
+Harris (pt.)
+
+Congressional District 23
+
+Bexar (pt.)
+Brewster
+Crane
+Crockett
+Culberson
+Dimmit
+Edwards
+El Paso (pt.)
+Frio
+Hudspeth
+Jeff Davis
+Kinney
+La Salle (pt.)
+Loving
+Maverick
+Medina
+Pecos
+Presidio
+Reagan
+Reeves
+Schleicher
+Sutton
+Terrell
+Upton
+Uvalde
+Val Verde
+Ward
+Winkler
+Zavala
+
+Congressional District 24
+
+Dallas (pt.)
+Denton (pt.)
+Tarrant (pt.)
+
+Congressional District 25
+
+Bell (pt.)
+Bosque
+Burnet
+Coryell
+Erath (pt.)
+Hamilton
+Hays (pt.)
+Hill
+Johnson
+Lampasas
+Somervell
+Tarrant (pt.)
+Travis (pt.)
+
+Congressional District 26
+
+Dallas (pt.)
+Denton (pt.)
+Tarrant (pt.)
+
+Congressional District 27
+
+Aransas
+Bastrop (pt.)
+Caldwell (pt.)
+Calhoun
+Gonzales (pt.)
+Jackson
+Lavaca
+Matagorda
+Nueces
+Refugio
+San Patricio (pt.)
+Victoria
+Wharton
+
+Congressional District 28
+
+Atascosa
+Bexar (pt.)
+Hidalgo (pt.)
+La Salle (pt.)
+McMullen
+Starr
+Webb
+Wilson (pt.)
+Zapata
+
+Congressional District 29
+
+Harris (pt.)
+
+Congressional District 30
+
+Dallas (pt.)
+
+Congressional District 31
+
+Bell (pt.)
+Williamson
+
+Congressional District 32
+
+Collin (pt.)
+Dallas (pt.)
+
+Congressional District 33
+
+Dallas (pt.)
+Tarrant (pt.)
+
+Congressional District 34
+
+Bee
+Cameron
+DeWitt
+Goliad
+Gonzales (pt.)
+Hidalgo (pt.)
+Jim Wells
+Kenedy
+Kleberg
+San Patricio (pt.)
+Willacy
+
+Congressional District 35
+
+Bexar (pt.)
+Caldwell (pt.)
+Comal (pt.)
+Guadalupe (pt.)
+Hays (pt.)
+Travis (pt.)
+
+Congressional District 36
+
+Chambers (pt.)
+Hardin
+Harris (pt.)
+Jasper
+Liberty
+Newton
+Orange
+Polk
+Tyler

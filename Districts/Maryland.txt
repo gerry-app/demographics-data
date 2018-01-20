@@ -1,0 +1,65 @@
+MARYLAND COUNTIES/INDEPENDENT CITIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Baltimore (pt.)
+Caroline
+Carroll (pt.)
+Cecil
+Dorchester
+Harford (pt.)
+Kent
+Queen Anne's
+Somerset
+Talbot
+Wicomico
+Worcester
+
+Congressional District 2
+
+Anne Arundel (pt.)
+Baltimore (pt.)
+Baltimore city (pt.)
+Harford (pt.)
+Howard (pt.)
+
+Congressional District 3
+
+Anne Arundel (pt.)
+Baltimore (pt.)
+Baltimore city (pt.)
+Howard (pt.)
+Montgomery (pt.)
+
+Congressional District 4
+
+Anne Arundel (pt.)
+Prince George's (pt.)
+
+Congressional District 5
+
+Anne Arundel (pt.)
+Calvert
+Charles
+Prince George's (pt.)
+St. Mary's
+
+Congressional District 6
+
+Allegany
+Frederick (pt.)
+Garrett
+Montgomery (pt.)
+Washington
+
+Congressional District 7
+
+Baltimore (pt.)
+Baltimore city (pt.)
+Howard (pt.)
+
+Congressional District 8
+
+Carroll (pt.)
+Frederick (pt.)
+Montgomery (pt.)

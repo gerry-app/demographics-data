@@ -1,0 +1,124 @@
+MINNESOTA COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Blue Earth
+Brown
+Cottonwood (pt.)
+Dodge
+Faribault
+Fillmore
+Freeborn
+Houston
+Jackson
+Le Sueur
+Martin
+Mower
+Nicollet
+Nobles
+Olmsted
+Rice (pt.)
+Rock
+Steele
+Waseca
+Watonwan
+Winona
+
+Congressional District 2
+
+Dakota
+Goodhue
+Rice (pt.)
+Scott
+Wabasha
+Washington (pt.)
+
+Congressional District 3
+
+Anoka (pt.)
+Carver (pt.)
+Hennepin (pt.)
+
+Congressional District 4
+
+Ramsey (pt.)
+Washington (pt.)
+
+Congressional District 5
+
+Anoka (pt.)
+Hennepin (pt.)
+Ramsey (pt.)
+
+Congressional District 6
+
+Anoka (pt.)
+Benton
+Carver (pt.)
+Hennepin (pt.)
+Sherburne
+Stearns (pt.)
+Washington (pt.)
+Wright
+
+Congressional District 7
+
+Becker
+Beltrami (pt.)
+Big Stone
+Chippewa
+Clay
+Clearwater
+Cottonwood (pt.)
+Douglas
+Grant
+Kandiyohi
+Kittson
+Lac qui Parle
+Lake of the Woods
+Lincoln
+Lyon
+Mahnomen
+Marshall
+McLeod
+Meeker
+Murray
+Norman
+Otter Tail
+Pennington
+Pipestone
+Polk
+Pope
+Red Lake
+Redwood
+Renville
+Roseau
+Sibley
+Stearns (pt.)
+Stevens
+Swift
+Todd
+Traverse
+Wilkin
+Yellow Medicine
+
+Congressional District 8
+
+Aitkin
+Beltrami (pt.)
+Carlton
+Cass
+Chisago
+Cook
+Crow Wing
+Hubbard
+Isanti
+Itasca
+Kanabec
+Koochiching
+Lake
+Mille Lacs
+Morrison
+Pine
+St. Louis
+Wadena

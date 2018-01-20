@@ -1,0 +1,80 @@
+SOUTH CAROLINA COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Beaufort (pt.)
+Berkeley (pt.)
+Charleston (pt.)
+Colleton (pt.)
+Dorchester (pt.)
+
+Congressional District 2
+
+Aiken
+Barnwell
+Lexington
+Orangeburg (pt.)
+Richland (pt.)
+
+Congressional District 3
+
+Abbeville
+Anderson
+Edgefield
+Greenville (pt.)
+Greenwood
+Laurens
+McCormick
+Newberry (pt.)
+Oconee
+Pickens
+Saluda
+
+Congressional District 4
+
+Greenville (pt.)
+Spartanburg (pt.)
+
+Congressional District 5
+
+Cherokee
+Chester
+Fairfield
+Kershaw
+Lancaster
+Lee
+Newberry (pt.)
+Spartanburg (pt.)
+Sumter (pt.)
+Union
+York
+
+Congressional District 6
+
+Allendale
+Bamberg
+Beaufort (pt.)
+Berkeley (pt.)
+Calhoun
+Charleston (pt.)
+Clarendon
+Colleton (pt.)
+Dorchester (pt.)
+Florence (pt.)
+Hampton
+Jasper
+Orangeburg (pt.)
+Richland (pt.)
+Sumter (pt.)
+Williamsburg
+
+Congressional District 7
+
+Chesterfield
+Darlington
+Dillon
+Florence (pt.)
+Georgetown
+Horry
+Marion
+Marlboro

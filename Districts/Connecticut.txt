@@ -1,0 +1,34 @@
+CONNECTICUT COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Hartford (pt.)
+Litchfield (pt.)
+Middlesex (pt.)
+
+Congressional District 2
+
+Hartford (pt.)
+Middlesex (pt.)
+New Haven (pt.)
+New London
+Tolland
+Windham
+
+Congressional District 3
+
+Fairfield (pt.)
+Middlesex (pt.)
+New Haven (pt.)
+
+Congressional District 4
+
+Fairfield (pt.)
+New Haven (pt.)
+
+Congressional District 5
+
+Fairfield (pt.)
+Hartford (pt.)
+Litchfield (pt.)
+New Haven (pt.)

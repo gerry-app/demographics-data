@@ -1,0 +1,112 @@
+IOWA COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Allamakee
+Benton
+Black Hawk
+Bremer
+Buchanan
+Clayton
+Delaware
+Dubuque
+Fayette
+Howard
+Iowa
+Jackson
+Jones
+Linn
+Marshall
+Mitchell
+Poweshiek
+Tama
+Winneshiek
+Worth
+
+Congressional District 2
+
+Appanoose
+Cedar
+Clarke
+Clinton
+Davis
+Decatur
+Des Moines
+Henry
+Jasper
+Jefferson
+Johnson
+Keokuk
+Lee
+Louisa
+Lucas
+Mahaska
+Marion
+Monroe
+Muscatine
+Scott
+Van Buren
+Wapello
+Washington
+Wayne
+
+Congressional District 3
+
+Adair
+Adams
+Cass
+Dallas
+Fremont
+Guthrie
+Madison
+Mills
+Montgomery
+Page
+Polk
+Pottawattamie
+Ringgold
+Taylor
+Union
+Warren
+
+Congressional District 4
+
+Audubon
+Boone
+Buena Vista
+Butler
+Calhoun
+Carroll
+Cerro Gordo
+Cherokee
+Chickasaw
+Clay
+Crawford
+Dickinson
+Emmet
+Floyd
+Franklin
+Greene
+Grundy
+Hamilton
+Hancock
+Hardin
+Harrison
+Humboldt
+Ida
+Kossuth
+Lyon
+Monona
+O'Brien
+Osceola
+Palo Alto
+Plymouth
+Pocahontas
+Sac
+Shelby
+Sioux
+Story
+Webster
+Winnebago
+Woodbury
+Wright

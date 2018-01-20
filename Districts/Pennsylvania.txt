@@ -1,0 +1,161 @@
+PENNSYLVANIA COUNTIES BY CONGRESSIONAL DISTRICT
+
+Congressional District 1
+
+Delaware (pt.)
+Philadelphia (pt.)
+
+Congressional District 2
+
+Montgomery (pt.)
+Philadelphia (pt.)
+
+Congressional District 3
+
+Armstrong
+Butler
+Clarion (pt.)
+Crawford (pt.)
+Erie (pt.)
+Lawrence (pt.)
+Mercer
+
+Congressional District 4
+
+Adams
+Cumberland (pt.)
+Dauphin (pt.)
+York
+
+Congressional District 5
+
+Cameron
+Centre
+Clarion (pt.)
+Clearfield
+Clinton
+Crawford (pt.)
+Elk
+Erie (pt.)
+Forest
+Huntingdon (pt.)
+Jefferson
+McKean
+Potter
+Tioga (pt.)
+Venango
+Warren
+
+Congressional District 6
+
+Berks (pt.)
+Chester (pt.)
+Lebanon (pt.)
+Montgomery (pt.)
+
+Congressional District 7
+
+Berks (pt.)
+Chester (pt.)
+Delaware (pt.)
+Lancaster (pt.)
+Montgomery (pt.)
+
+Congressional District 8
+
+Bucks
+Montgomery (pt.)
+
+Congressional District 9
+
+Bedford
+Blair
+Cambria (pt.)
+Fayette
+Franklin
+Fulton
+Greene (pt.)
+Huntingdon (pt.)
+Indiana
+Somerset (pt.)
+Washington (pt.)
+Westmoreland (pt.)
+
+Congressional District 10
+
+Bradford
+Juniata
+Lackawanna (pt.)
+Lycoming
+Mifflin
+Monroe (pt.)
+Northumberland (pt.)
+Perry (pt.)
+Pike
+Snyder
+Sullivan
+Susquehanna
+Tioga (pt.)
+Union
+Wayne
+
+Congressional District 11
+
+Carbon (pt.)
+Columbia
+Cumberland (pt.)
+Dauphin (pt.)
+Luzerne (pt.)
+Montour
+Northumberland (pt.)
+Perry (pt.)
+Wyoming
+
+Congressional District 12
+
+Allegheny (pt.)
+Beaver
+Cambria (pt.)
+Lawrence (pt.)
+Somerset (pt.)
+Westmoreland (pt.)
+
+Congressional District 13
+
+Montgomery (pt.)
+Philadelphia (pt.)
+
+Congressional District 14
+
+Allegheny (pt.)
+Westmoreland (pt.)
+
+Congressional District 15
+
+Berks (pt.)
+Dauphin (pt.)
+Lebanon (pt.)
+Lehigh
+Northampton (pt.)
+
+Congressional District 16
+
+Berks (pt.)
+Chester (pt.)
+Lancaster (pt.)
+
+Congressional District 17
+
+Carbon (pt.)
+Lackawanna (pt.)
+Luzerne (pt.)
+Monroe (pt.)
+Northampton (pt.)
+Schuylkill
+
+Congressional District 18
+
+Allegheny (pt.)
+Greene (pt.)
+Washington (pt.)
+Westmoreland (pt.)
