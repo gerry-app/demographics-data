@@ -26,9 +26,10 @@ def parse():
                     data[state][d_no]['R'] += int(int(row['v29'])*float(row['v36'])/100.0)
                 else:
                     data[state][d_no]['I'] += int(int(row['v29'])*float(row['v36'])/100.0)
-                    
                 viewed_ids[candidate_id] = ''
-
+                
+            if '0' not in data[state]:
+                data[state]['0'] = {'D':0,'R':0,'I':0}
 
     f.close()
 
