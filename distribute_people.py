@@ -2,7 +2,15 @@ import json, random
 
 def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     d = val.split('-')[1]
-    people = districts[d]
+    if d in people:
+        people = districts[d]
+    else:
+        state_info[y][x] = {
+            'R': 0,
+            'D': 0,
+            'I': 0
+        }
+        return
 
     if counts[val] < spaces[val]:
         total = people['R'] + people['D']
