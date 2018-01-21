@@ -8,3 +8,4 @@ with open('states.json') as f:
         states_with_info[key] = d.get_state_people(key, states[key])
     with open('huge_ass.json', 'w') as g:
         json.dump(states_with_info, g)
+
