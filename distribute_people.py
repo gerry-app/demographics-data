@@ -2,7 +2,7 @@ import json, random
 
 def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     d = val.split('-')[1]
-    data = {'D':0,'R':0,'I':0,'dis':val, 'row': y, 'col':x}
+    data = {'D':random.randint(80000, 100000),'R':random.randint(80000, 100000),'I':random.randint(40, 60),'dis':val, 'row': y, 'col':x}
     if d in districts:
         people = districts[d]
     else:
@@ -18,9 +18,9 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
         d_choose = people['D']
         r_choose = people['R']
         random_i = people['I']
-        
+
     num_subtracted = 0
-    
+
     num_subtracted += min(d_choose,people['D'])
     data['D'] += min(d_choose,people['D'])
     people['D'] -= min(d_choose,people['D'])
@@ -29,7 +29,7 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     people['R'] -= min(r_choose,people['R'])
     data['I'] += min(random_i, people['I'])
     people['I'] -= min(random_i, people['I'])
-    
+
     if counts[val] < spaces[val] and num_subtracted != num_to_choose:
         if people['D'] == 0:
             num_subtracted += min(num_to_choose-num_subtracted,people['R'])
@@ -42,9 +42,6 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
 
     state_info[y][x] = data
     counts[val] += 1
-    
-
-
 
 #state is abbrev
 # convert between stateabrev-num and num
@@ -52,14 +49,14 @@ def get_state_people(state,state_array):
 
     with open('party_counts.json') as dt:
         districts = json.load(dt)[state]
-    
+
     spaces = {state+'-'+str(d):0 for d in districts}
     counts = {state+'-'+str(d):1 for d in districts}
     state_info = [[None for x in xrange(len(state_array[y]))] for y in xrange(len(state_array))]
     for row in state_array:
         for d in spaces:
             spaces[d] += row.count(d)
-    
+
     for y in xrange(len(state_array)):
         for x in xrange(len(state_array[y])):
             val = state_array[y][x]
@@ -67,5 +64,3 @@ def get_state_people(state,state_array):
                 fill_in_cell(districts,counts,val,spaces,state_info,y,x)
 
     return state_info
-
-            
