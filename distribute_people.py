@@ -7,8 +7,7 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
         people = districts[d]
     else:
         state_info[y][x] = data
-        return 
-        
+        return
     if counts[val] < spaces[val]:
         total = people['R'] + people['D']
         num_to_choose = total/spaces[val]
