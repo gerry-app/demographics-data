@@ -13,7 +13,7 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
         num_to_choose = total/spaces[val]
         d_choose = random.randrange(0,num_to_choose+1)
         r_choose = num_to_choose-d_choose
-        random_i = random.randrange(people['I'])
+        random_i = 0 if people['I'] == 0 else random.randrange(people['I'])
     else:
         d_choose = people['D']
         r_choose = people['R']
