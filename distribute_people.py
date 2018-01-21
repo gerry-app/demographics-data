@@ -2,7 +2,7 @@ import json, random
 
 def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     d = val.split('-')[1]
-    data = {'D':0,'R':0,'dis':val, 'row': y, 'col':x}
+    data = {'D':0,'R':0,'I':0,'dis':val, 'row': y, 'col':x}
     if d in districts:
         people = districts[d]
     else:
@@ -14,9 +14,11 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
         num_to_choose = total/spaces[val]
         d_choose = random.randrange(0,num_to_choose+1)
         r_choose = num_to_choose-d_choose
+        random_i = random.randrange(people['I'])
     else:
         d_choose = people['D']
         r_choose = people['R']
+        random_i = people['I']
         
     num_subtracted = 0
     
@@ -26,7 +28,8 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     num_subtracted += min(r_choose,people['R'])
     data['R'] += min(r_choose,people['R'])
     people['R'] -= min(r_choose,people['R'])
-
+    data['I'] += min(random_i, people['I'])
+    people['I'] -= min(random_i, people['I'])
     
     if counts[val] < spaces[val] and num_subtracted != num_to_choose:
         if people['D'] == 0:
