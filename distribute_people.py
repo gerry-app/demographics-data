@@ -1,48 +1,5 @@
 import json, random
 
-def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
-    d = val.split('-')[1]
-    data = {'D':random.randint(80000, 100000),'R':random.randint(80000, 100000),'I':random.randint(40, 60),'dis':val, 'row': y, 'col':x}
-    if d in districts:
-        people = districts[d]
-    else:
-        state_info[y][x] = data
-        return
-    if counts[val] < spaces[val]:
-        total = people['R'] + people['D']
-        num_to_choose = total/spaces[val]
-        d_choose = random.randrange(0,num_to_choose+1)
-        r_choose = num_to_choose-d_choose
-        random_i = 0 if people['I'] == 0 else random.randrange(people['I'])
-    else:
-        d_choose = people['D']
-        r_choose = people['R']
-        random_i = people['I']
-
-    num_subtracted = 0
-
-    num_subtracted += min(d_choose,people['D'])
-    data['D'] += min(d_choose,people['D'])
-    people['D'] -= min(d_choose,people['D'])
-    num_subtracted += min(r_choose,people['R'])
-    data['R'] += min(r_choose,people['R'])
-    people['R'] -= min(r_choose,people['R'])
-    data['I'] += min(random_i, people['I'])
-    people['I'] -= min(random_i, people['I'])
-
-    if counts[val] < spaces[val] and num_subtracted != num_to_choose:
-        if people['D'] == 0:
-            num_subtracted += min(num_to_choose-num_subtracted,people['R'])
-            data['R'] += min(num_to_choose-num_subtracted,people['R'])
-            people['R'] -= min(num_to_choose-num_subtracted,people['R'])
-        else:
-            num_subtracted += min(num_to_choose-num_subtracted,people['D'])
-            data['D'] += min(num_to_choose-num_subtracted,people['D'])
-            people['D'] -= min(num_to_choose-num_subtracted,people['D'])
-
-    state_info[y][x] = data
-    counts[val] += 1
-
 # state is abbrev
 # convert between stateabrev-num and num
 # states with only one rep (XX-0): WY, VT, SD, AK, DE, ND, MT
