@@ -2,8 +2,13 @@ import json, random
 
 def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     d = val.split('-')[1]
-    people = districts[d]
-
+    data = {'D':0,'R':0,'dis':val, 'row': y, 'col':x}
+    if d in districts:
+        people = districts[d]
+    else:
+        state_info[y][x] = data
+        return 
+        
     if counts[val] < spaces[val]:
         total = people['R'] + people['D']
         num_to_choose = total/spaces[val]
@@ -14,7 +19,6 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
         r_choose = people['R']
         
     num_subtracted = 0
-    data = {'D':0,'R':0,'dis':val}
     
     num_subtracted += min(d_choose,people['D'])
     data['D'] += min(d_choose,people['D'])
@@ -63,5 +67,3 @@ def get_state_people(state,state_array):
     return state_info
 
             
-
-
