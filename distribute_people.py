@@ -43,8 +43,10 @@ def fill_in_cell(districts,counts,val,spaces,state_info,y,x):
     state_info[y][x] = data
     counts[val] += 1
 
-#state is abbrev
+# state is abbrev
 # convert between stateabrev-num and num
+# states with only one rep (XX-0): WY, VT, SD, AK, DE, ND, MT
+
 def get_state_people(state,state_array):
 
     with open('party_counts.json') as dt:
