@@ -7,6 +7,6 @@ with open('states.json') as f:
     for key, value in states.items():
         print key
         states_with_info[key] = d.get_state_people(key, states[key])
-    with open('huge_ass.json', 'w') as g:
+    with open('population.json', 'w') as g:
         json.dump(states_with_info, g)
 
